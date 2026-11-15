@@ -1,1 +1,1 @@
-Just part that needs to be done... Practically useless here.
+https://github.com/Aljel2/posmotri-v-okno-ad
